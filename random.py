@@ -1,2 +1,4 @@
+#random
 import random
-print(random.randint(1,10))
+a= random.randint(1,100)
+print (a)
